@@ -25,7 +25,7 @@ public class Ticket {
         System.out.println("\nname:" + person_new.name + "\n" + "surname:" + person_new.sur_name +
                 "\n" + "email:" + person_new.email + "\n" + "row:" + row + "\n" + "seat:" + seat + "\n" + "price:" + price + "\n"
                 );
-git
+
 
 
 
